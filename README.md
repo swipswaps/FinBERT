@@ -10,7 +10,7 @@
 ## MOTIVATIONS
 
 <b>Goal 1</b> `FinBERT-Prime_128MSL-500K+512MSL-10K vs BERT`
- - Compare mask LM prediction accurracy on technical financial sentences
+ - Compare mask LM prediction accuracy on technical financial sentences
  - Compare analogy on financial relationships
 
 <b>Goal 2</b> `FinBERT-Prime_128MSL-500K vs FinBERT-Pre2K_128MSL-500K`
